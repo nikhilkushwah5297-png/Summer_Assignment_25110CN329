@@ -6,7 +6,7 @@ Programs:
 2. Factorial of a number
 3. Prime number check
 4. Fibonacci series
-    Day 2 Assignment
+Day 2 Assignment
 Name: Nikhil Kushwah
 Roll No: 25110CN329
 Programs:
