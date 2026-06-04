@@ -17,3 +17,8 @@ Q9 - Checks whether a number is prime or not.
 Q10 - Prints all prime numbers in a given range.
 Q11 - Finds the GCD of two numbers.
 Q12 - Finds the LCM of two numbers.
+# Day 4
+13 - Generate Fibonacci Series
+14 - Find nth Fibonacci Term
+15 - Check Armstrong Number
+16 - Print Armstrong Numbers in a Range
