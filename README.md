@@ -1,5 +1,5 @@
 Summer Assignment - 
-#Day 1
+# Day 1
 Name: Nikhil Kushwah
 Roll No: 25110CN329
 Programs:
@@ -7,7 +7,7 @@ Programs:
 2. Factorial of a number
 3. Prime number check
 4. Fibonacci series
-#Day 2 Assignment
+# Day 2 Assignment
 Programs:
 5 - Sum of digits of a number
 6 - Reverse a number
