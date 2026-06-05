@@ -22,3 +22,8 @@ Q12 - Finds the LCM of two numbers.
 14 - Find nth Fibonacci Term
 15 - Check Armstrong Number
 16 - Print Armstrong Numbers in a Range
+# Day 5 
+- Q17 - Check Perfect Number
+- Q18 - Check Strong Number
+- Q19 - Print Factors of a Number
+- Q20 - Find Largest Prime Factor
