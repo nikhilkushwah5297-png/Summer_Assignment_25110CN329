@@ -28,3 +28,8 @@ Q12 - Finds the LCM of two numbers.
 - Q18 - Check Strong Number
 - Q19 - Print Factors of a Number
 - Q20 - Find Largest Prime Factor
+# Day 6
+Q21 - Convert Decimal to Binary
+Q22 - Convert Binary to Decimal
+Q23 - Count Set Bits in a Number
+Q24 - Find x^n without using pow()
