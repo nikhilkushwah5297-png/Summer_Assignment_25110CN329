@@ -33,3 +33,13 @@ Q21 - Convert Decimal to Binary
 Q22 - Convert Binary to Decimal
 Q23 - Count Set Bits in a Number
 Q24 - Find x^n without using pow()
+# Day 7
+Q25 - Recursive Factorial
+Q26 - Recursive Fibonacci
+Q27 - Recursive Sum of Digits
+Q28 - Recursive Reverse Number
+# Day 8
+Q29 - Half Pyramid Pattern
+Q30 - Number Triangle
+Q31 - Character Triangle
+Q32 - Repeated Number Pattern
