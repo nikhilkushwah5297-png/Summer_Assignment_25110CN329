@@ -43,3 +43,13 @@ Q29 - Half Pyramid Pattern
 Q30 - Number Triangle
 Q31 - Character Triangle
 Q32 - Repeated Number Pattern
+# Day 9
+- Reverse Star Pattern
+- Reverse Number Triangle
+- Repeated Character Pattern
+- Hollow Square Pattern
+ # Day 10
+- Star Pyramid
+- Reverse Pyramid
+- Number Pyramid
+- Character Pyramid
