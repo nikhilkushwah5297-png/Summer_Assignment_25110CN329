@@ -53,3 +53,8 @@ Q32 - Repeated Number Pattern
 - Reverse Pyramid
 - Number Pyramid
 - Character Pyramid
+# Day 11
+- Q41: Sum of two numbers using function.
+- Q42: Find maximum using function.
+- Q43: Check prime number using function.
+- Q44: Find factorial using function.
