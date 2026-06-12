@@ -58,3 +58,8 @@ Q32 - Repeated Number Pattern
 - Q42: Find maximum using function.
 - Q43: Check prime number using function.
 - Q44: Find factorial using function.
+# Day 12
+- Q45: Palindrome Number
+- Q46: Armstrong Number
+- Q47: Fibonacci Series
+- Q48: Perfect Number
