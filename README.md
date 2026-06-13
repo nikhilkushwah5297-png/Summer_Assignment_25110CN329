@@ -63,3 +63,8 @@ Q32 - Repeated Number Pattern
 - Q46: Armstrong Number
 - Q47: Fibonacci Series
 - Q48: Perfect Number
+# Day 13
+Q49 - Input and display array.
+Q50 - Find sum and average of array.
+Q51 - Find largest and smallest element.
+Q52 - Count even and odd elements.
