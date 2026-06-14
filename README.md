@@ -68,3 +68,8 @@ Q49 - Input and display array.
 Q50 - Find sum and average of array.
 Q51 - Find largest and smallest element.
 Q52 - Count even and odd elements.
+# Day 14
+Q53: Linear Search in Array
+Q54: Find Frequency of an Element
+Q55: Find Second Largest Element
+Q56: Find Duplicate Elements in Array
