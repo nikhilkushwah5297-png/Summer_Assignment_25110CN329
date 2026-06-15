@@ -73,3 +73,8 @@ Q53: Linear Search in Array
 Q54: Find Frequency of an Element
 Q55: Find Second Largest Element
 Q56: Find Duplicate Elements in Array
+# Day 15
+Q57 - Reverse Array
+Q58 - Left Rotation
+Q59 - Right Rotation
+Q60 - Move Zeroes to End
