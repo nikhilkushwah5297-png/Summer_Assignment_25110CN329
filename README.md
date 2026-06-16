@@ -78,3 +78,8 @@ Q57 - Reverse Array
 Q58 - Left Rotation
 Q59 - Right Rotation
 Q60 - Move Zeroes to End
+# DAY 16 
+Q61 - Find Missing Number
+Q62 - Find Maximum Frequency Element
+Q63 - Find Pair with Given Sum
+Q64 - Remove Duplicates from Array
