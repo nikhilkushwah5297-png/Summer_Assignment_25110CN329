@@ -83,3 +83,8 @@ Q61 - Find Missing Number
 Q62 - Find Maximum Frequency Element
 Q63 - Find Pair with Given Sum
 Q64 - Remove Duplicates from Array
+# Day 17
+Q65 - Merge Arrays
+Q66 - Union of Arrays
+Q67 - Intersection of Arrays
+Q68 - Find Common Elements
