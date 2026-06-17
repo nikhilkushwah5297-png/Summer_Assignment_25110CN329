@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+int main() {
+    int a[] = {1, 2, 3, 4};
+    int b[] = {3, 4, 5, 6};
+    cout << "Union: ";
+    for (int i = 0; i < 4; i++) {
+        cout << a[i] << " ";
+    }
+    for (int i = 0; i < 4; i++) {
+        bool found = false;
+        for (int j = 0; j < 4; j++) {
+            if (b[i] == a[j]) {
+                found = true;
+                break;
+            }
+        }
+        if (!found) {
+            cout << b[i] << " ";
+        }
+    }
+    return 0;
+}
