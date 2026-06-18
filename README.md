@@ -88,3 +88,8 @@ Q65 - Merge Arrays
 Q66 - Union of Arrays
 Q67 - Intersection of Arrays
 Q68 - Find Common Elements
+# Day 18
+Q69 - Bubble Sort
+Q70 - Selection Sort
+Q71 - Binary Search
+Q72 - Sort Array in Descending Order
