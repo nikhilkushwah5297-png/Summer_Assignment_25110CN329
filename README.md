@@ -93,3 +93,8 @@ Q69 - Bubble Sort
 Q70 - Selection Sort
 Q71 - Binary Search
 Q72 - Sort Array in Descending Order
+# Day 19
+Q73 - Add Matrices
+Q74 - Subtract Matrices
+Q75 - Transpose Matrix
+Q76 - Find Diagonal Sum
