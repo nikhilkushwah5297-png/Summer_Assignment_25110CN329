@@ -98,3 +98,8 @@ Q73 - Add Matrices
 Q74 - Subtract Matrices
 Q75 - Transpose Matrix
 Q76 - Find Diagonal Sum
+# Day 20 
+Q77 - Matrix Multiplication
+Q78 - Check Symmetric Matrix
+Q79 - Find Row-wise Sum
+Q80 - Find Column-wise Sum
