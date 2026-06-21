@@ -103,3 +103,8 @@ Q77 - Matrix Multiplication
 Q78 - Check Symmetric Matrix
 Q79 - Find Row-wise Sum
 Q80 - Find Column-wise Sum
+# Day 21
+Q81 - Find String Length
+Q82 - Reverse String
+Q83 - Count Vowels and Consonants
+Q84 - Convert Lowercase to Uppercase
