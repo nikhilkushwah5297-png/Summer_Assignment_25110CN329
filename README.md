@@ -108,3 +108,8 @@ Q81 - Find String Length
 Q82 - Reverse String
 Q83 - Count Vowels and Consonants
 Q84 - Convert Lowercase to Uppercase
+# Day 22:
+Q85 - Check Palindrome String
+Q86 - Count Words in a Sentence
+Q87 - Character Frequency
+Q88 - Remove Spaces from String
