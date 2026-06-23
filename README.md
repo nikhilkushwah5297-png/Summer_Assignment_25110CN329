@@ -113,3 +113,8 @@ Q85 - Check Palindrome String
 Q86 - Count Words in a Sentence
 Q87 - Character Frequency
 Q88 - Remove Spaces from String
+# Day 23:
+Q89 - First Non-Repeating Character
+Q90 - First Repeating Character
+Q91 - Check Anagram Strings
+Q92 - Find Maximum Occurring Character
