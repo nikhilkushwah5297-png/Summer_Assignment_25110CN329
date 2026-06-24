@@ -118,3 +118,8 @@ Q89 - First Non-Repeating Character
 Q90 - First Repeating Character
 Q91 - Check Anagram Strings
 Q92 - Find Maximum Occurring Character
+# Day 24
+Q93 - Check String Rotation
+Q94 - Compress a String
+Q95 - Find Longest Word
+Q96 - Remove Duplicate Characters
