@@ -127,4 +127,4 @@ Q96 - Remove Duplicate Characters
 Q97 - Merge Two Arrays
 Q98 - Find Common Characters
 Q99 - Sort Names Alphabetically
-Q100 - Sort Words
+Q100 - Sort Words by kength
