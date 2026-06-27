@@ -133,3 +133,8 @@ Q101 - Number Guessing Game
 Q102 - Voting Eligibility
 Q103 - ATM Simulation
 Q104 - Quiz Application
+# Day 27
+Q105 - Student Record
+Q106 - Employee Record
+Q107 - Salary Management
+Q108 - Marksheet Generation
