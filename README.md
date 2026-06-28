@@ -138,3 +138,8 @@ Q105 - Student Record
 Q106 - Employee Record
 Q107 - Salary Management
 Q108 - Marksheet Generation
+# Day 28
+Q109 - Library Management
+Q110 - Bank Account System
+Q111 - Ticket Booking System
+Q112 - Contact Managemens
