@@ -143,3 +143,8 @@ Q109 - Library Management
 Q110 - Bank Account System
 Q111 - Ticket Booking System
 Q112 - Contact Managemens
+# Day 29
+Q113 - Menu Calculator
+Q114 - Array Operations
+Q115 - String Operations
+Q116 - Inventory Management
