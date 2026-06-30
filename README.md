@@ -148,3 +148,8 @@ Q113 - Menu Calculator
 Q114 - Array Operations
 Q115 - String Operations
 Q116 - Inventory Management
+# Day 30
+Q117 - Student Record System
+Q118 - Mini Library System
+Q119 - Mini Employee System
+Q120 - Mini Project
